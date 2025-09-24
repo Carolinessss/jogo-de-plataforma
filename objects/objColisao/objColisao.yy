@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"objBotaopause",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"objColisao",
+  "eventList":[],
   "managed":true,
-  "name":"objBotaopause",
+  "name":"objColisao",
   "overriddenProperties":[],
   "parent":{
-    "name":"grpbotoes",
-    "path":"folders/Objects/grpbotoes.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprBotaodepausa1",
-    "path":"sprites/sprBotaodepausa1/sprBotaodepausa1.yy",
+    "name":"aprColisao",
+    "path":"sprites/aprColisao/aprColisao.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
